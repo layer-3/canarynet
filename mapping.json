@@ -1,5 +1,6 @@
 {
     "BTC": ["BTC","WBTC"],
     "ETH": ["ETH","WETH"],
-    "USD": ["USDT", "USDC", "DAI"]
+    "USDx": ["USDT", "USDC", "DAI"],
+    "MATIC": ["MATIC", "WMATIC"]
 }
