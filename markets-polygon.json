@@ -1,6 +1,7 @@
 [
     "spot://BTC/USDx",
     "spot://ETH/USDx",
+    "spot://DUCKIES/USDx",
     "spot://MATIC/USDx",
     "spot://SOL/USDx",
     "spot://RNDR/USDx",
