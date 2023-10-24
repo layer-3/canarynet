@@ -5,9 +5,14 @@
         "address": "0xd5e099c71b797516c10ed0f0d895f429c2781142",
         "packages": [
             {
-              "name": "Margin Package 1",
-              "margin_assets_amount": 10000,
-              "safety_assets_amount": 5000
+              "name": "retail",
+              "margin": [5, 1000],
+              "safety": "5.5"
+            },
+            {
+              "name": "prime",
+              "margin": [1000, 1000000],
+              "safety": "3.5"
             }
           ]
     },
@@ -17,9 +22,14 @@
         "address": "0xd5e099c71b797516c10ed0f0d895f429c2781142",
         "packages": [
             {
-              "name": "Margin Package 1",
-              "margin_assets_amount": 10000,
-              "safety_assets_amount": 5000
+              "name": "retail",
+              "margin": [10, 1000],
+              "safety": "5.5"
+            },
+            {
+              "name": "prime",
+              "margin": [1000, 1000000],
+              "safety": "3.5"
             }
           ]
     }

@@ -1,12 +1,12 @@
 [
-    "spot://BTC/USDx",
-    "spot://ETH/USDx",
-    "spot://DUCKIES/USDx",
-    "spot://MATIC/USDx",
-    "spot://SOL/USDx",
-    "spot://RNDR/USDx",
-    "spot://LINK/USDx",
-    "spot://AAVE/USDx",
-    "spot://GRT/USDx",
-    "spot://SHIB/USDx"
+    "spot://BTC/USD",
+    "spot://ETH/USD",
+    "spot://DUCKIES/USD",
+    "spot://MATIC/USD",
+    "spot://SOL/USD",
+    "spot://RNDR/USD",
+    "spot://LINK/USD",
+    "spot://AAVE/USD",
+    "spot://GRT/USD",
+    "spot://SHIB/USD"
 ]
