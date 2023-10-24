@@ -1,0 +1,26 @@
+[
+    {
+        "url": "http://localhost:8080/",
+        "name": "localhost.eth",
+        "address": "0xd5e099c71b797516c10ed0f0d895f429c2781142",
+        "packages": [
+            {
+              "name": "Margin Package 1",
+              "margin_assets_amount": 10000,
+              "safety_assets_amount": 5000
+            }
+          ]
+    },
+    {
+        "url": "https://api.kayen.io/",
+        "name": "kayen.eth",
+        "address": "0xd5e099c71b797516c10ed0f0d895f429c2781142",
+        "packages": [
+            {
+              "name": "Margin Package 1",
+              "margin_assets_amount": 10000,
+              "safety_assets_amount": 5000
+            }
+          ]
+    }
+]
