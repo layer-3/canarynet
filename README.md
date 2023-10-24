@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Repo moved to: https://github.com/layer-3/clearsync/tree/master/networks
+
 # Clearing Network (Clearnet)
 
 Yellow network is isolated into two networks, pre-production and production.
